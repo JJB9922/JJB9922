@@ -12,7 +12,7 @@ Mostly trying to get better technically
 
 However, there is 1 project which I wouldn't mind collaborating on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJB9922&repo=MusiDoodle)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JJB9922&repo=MusiDoodle)](https://github.com/JJB9922/MusiDoodle)
 
 It's a digital notepad for quickly jotting down musical ideas, intended for those who sit at their computer doodling on an instrument and stumble across inspiration
 
