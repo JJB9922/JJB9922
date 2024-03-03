@@ -18,7 +18,7 @@ It's a digital notepad for quickly jotting down musical ideas, intended for thos
 
 I have too many ideas for it and want the UX to be flawless, enabling musicians to make a digital record of musical ideas without hindrance
 
-But, I'm slow to make substantial progress on it for a variety of reasons ([no superpowers here](https://www.youtube.com/watch?v=68W2fzN3ZiU))
+But, I'm slow to make substantial progress on it for a [variety of reasons](https://www.youtube.com/watch?v=68W2fzN3ZiU)
 
 ### Background
 
