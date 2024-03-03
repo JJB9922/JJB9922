@@ -24,7 +24,7 @@ But, I'm slow to make substantial progress on it for a variety of reasons ([no s
 
 Master's in Psychology, affinity for technology.
 
-Work in Life Sciences Robotics 🤖
+Work in Life Sciences Robotics 🤖 (C# mostly, lil bit of React/TS)
 
 Dependence on music / musicianship - (guitar, bass, piano, drums, recording & production)
 
