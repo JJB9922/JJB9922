@@ -10,7 +10,7 @@ Mostly trying to get better technically and build whatever I'd find useful perso
 
 Master's in Psychology.
 
-Work in Life Sciences Robotics 🤖 (C# mostly, lil bit of front-end web)
+Work in Life Sciences Robotics 🤖 (C# mostly, lil bit of front-end web & C++)
 
 Big fan of musicianship - (guitar, bass, piano, drums, recording & production)
 
