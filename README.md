@@ -4,7 +4,7 @@ I like to work on too many projects at once
 
 ### Currently Working On
 
-Mostly trying to get better technically and build whatever I'd find useful personally
+Computer Graphics!
 
 ### Background
 
