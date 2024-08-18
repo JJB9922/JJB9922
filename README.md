@@ -1,10 +1,8 @@
 ### Hello 🤠
 
-I like to work on too many projects at once
-
 ### Currently Working On
 
-Computer Graphics!
+Computer Graphics / Engine Dev
 
 ### Background
 
