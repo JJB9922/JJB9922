@@ -6,13 +6,13 @@ Computer Graphics / Engine Dev
 
 ### Background
 
-Master's in Psychology.
+Master's in Psychology
 
-Work in Life Sciences Robotics 🤖 (C# mostly, lil bit of front-end web & C++)
+Work in Robotics 🤖
 
-Big fan of musicianship - (guitar, bass, piano, drums, recording & production)
+Musician - (guitar, bass, piano, drums, recording & production)
 
-Brazilian Jiu-Jitsu, Muay Thai and MMA.
+Brazilian Jiu-Jitsu, Muay Thai and MMA
 
 ### Skills
 
