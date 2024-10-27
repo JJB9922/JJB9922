@@ -1,9 +1,5 @@
 ### Hello 🤠
 
-### Currently Working On
-
-Computer Graphics / Engine Dev
-
 ### Background
 
 Master's in Psychology
